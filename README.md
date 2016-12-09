@@ -1,2 +1,2 @@
-# Angular2seed
-Simple Angular 2 seed
+# Angular 2 seed
+Vanila Angular 2 startup project.
